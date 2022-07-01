@@ -1,0 +1,95 @@
+h1{
+    font-size:50px;
+    color:brown;
+    font-family:'Times New Roman', Times, serif ;
+}
+body{
+    background-color: rgba(90, 110, 23, 0.056);
+}
+.Univ{
+font: size 700px;;
+color: rgb(0, 255, 102);
+font-family: Arial, Helvetica, sans-serif;
+}
+.myself{
+    font: 1em sans-serif;
+    color: black;
+    font-style: oblique;
+    font-weight: bold;
+    flex: content;
+}
+footer{
+    color: rgba(11, 11, 11, 0.733);
+    font-style: calc();
+    font-weight: lighter;
+    flex: 0cm;
+}
+.hobbies{
+    flex-grow: inherit;
+    font-size: x-large;
+    color:rgb(red, green, blue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+}
+div{
+    border: 1px solid gray;
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    padding-top:50px ;
+    padding-left:50px ;
+    padding-bottom:50px ;
+    padding-right:50px ;
+}
+div:hover{
+    color:purple;
+    transition:4s;
+    transform: scale(1.1);
+}
+#bio{
+    background-color:#c9c9c9;
+    position: relative;
+    left:9px;
+}
+#his{
+    background-color:#8496b0;
+    position:relative;
+    top:200px;
+    left:5px;
+}
+#hob{
+    background-color: #8eaadb;
+    position:relative;
+    top:200px;
+    right:194px;
+}
+#cont{
+background-color: #f7caac;
+position: relative;
+top:200px;
+left: 203px;
+}
+#photo{
+    background-color:#4472c4;
+    position: relative;
+    left:1px;
+}
+table{
+    border-spacing: 10px;
+    border-style: inset;
+    border-color: aqua;
+    border-bottom-left-radius: 30px;
+    border-width:40px;
+}
+.more{
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-feature-settings: "blwm";
+}
+button{
+    background-color:rgb(160, 218, 227);
+    font-size: large;
+    font-kerning: normal;
+    font-variant: small-caps;
+}
